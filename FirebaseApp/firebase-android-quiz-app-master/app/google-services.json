@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "838410535955",
+    "firebase_url": "https://fir-project-282818.firebaseio.com",
+    "project_id": "firebaseproject-282818",
+    "storage_bucket": "firebaseproject-282818.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:838410535955:android:421b6c89944f51f300abe6",
+        "android_client_info": {
+          "package_name": "com.example.test_quiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "838410535955-c8kjf02d8os9bprdsnjlosb3760o8q1f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWaTHsxXE2IE7WYqMEe4kmyRUJhyqizOo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "838410535955-c8kjf02d8os9bprdsnjlosb3760o8q1f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
